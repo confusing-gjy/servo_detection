@@ -9,6 +9,9 @@
 - **免环境运行**：最终成品为单文件 `舵机测试.exe`，无需安装 Python 或开发环境。
 
 ------
+## 项目拉取说明
+在git bash中输入`git clone https://github.com/confusing-gjy/servo_detection.git`来拉取仓库
+不要直接在github上下载压缩包
 
 ## 硬件连接说明
 
